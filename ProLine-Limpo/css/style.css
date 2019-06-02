@@ -1,0 +1,90 @@
+.dark{
+	
+    background: linear-gradient(#000000, #2F0B3A,#81BEF7) ;
+}
+
+
+.title-header {
+  color: ##81BEF7;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding: 35px;
+ font-family: "arial", sans-serif;
+}
+
+.tm-page-header {
+  color: #81BEF7 ;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding: 45px;
+  
+}
+
+.tm-nav-section {
+  position: absolute;
+  top: 158px;
+  left: 0;
+  width: 100%;
+  border-top: white ;
+  border-bottom:white;
+  background-color: white
+  z-index: 3000;
+}
+
+.tm-nav-section.sticky {
+  position: fixed;
+  top: 0;
+  border-top: none;
+  background:white;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+  padding: 10px 35px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color:#000000;
+}
+
+#tmMainNav .nav-link.current,
+#tmMainNav .nav-link:hover {
+  color: #000000;
+  background:white;
+}
+
+.navbar-light .navbar-toggler {
+  background-color: white;
+}
+
+
+body {
+  min-height: 100vh;
+  position: relative;
+  margin: 0;
+  background-image: src="img/img-01.jpg";
+  overflow-x: hidden;
+  font-family: Sarala, Arial, Helvetica, sans-serif;;
+  font-weight: 800;
+  
+  font-style:bold;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;          ;
+  
+      font-size: 1.4rem;
+  line-height: 1.8rem;
+  color: #848484;
+}
