@@ -110,7 +110,7 @@ http://www.tooplate.com/view/2111-pro-line
                    <li class="nav-item">
                     <a class="nav-link external" href="cadastro/login/login.html">LOGIN</a>
                   </li>
-                  
+                  <!--
                   <li class="nav-item">
                     <a class=" navbar-fbicon external"  href="https://www.facebook.com/DTodOsAs/?__xts__[0]=68.ARC-9cenhr24VXoOdF2-e4cU78oeNEL9LB5EpEJ-z8T08RF_iFwxypCpXv5XOzMlO4hrwF6rYBC-Ko8u6D3lRDxZFzVYrWhO_2eWPQcw8BTtm5xtvf4_k5bd_ZawUkIQ80o9oEMq6VjBU6slpSV6cKuiR4J3033C6q8-5hIvT92wSRTvaUp1Jj795GKO8um9l5fPZ-MvKoH3IJWWSQl1qns5VeA7UIlO4fDqWoIqfzCTtpDlNkDlNpfU0IgLsdO7_F-iOhDgc0oqmDwopKEIFX7HZMmrdWNKPFNiZmKkeVDBWg0EDAClvuKJ2Djkm6RipN3Ty63YK73arPrdj-of6nCbUqqw&__xts__[1]=68.ARAvxhaI_VhxkSQik2rD08BKeUhjMZc8Bxdksuz_ktLANSCpPp3vmMdkOBl26T_O5PZY4FRQ_7kKvvpDDWYKSRWidH3Vw3gA1DtTjAWshivjXY33H0gEbMREs3v6rvWk_Th0Hdchji2hJ0gQVkGSCPSZi3gT6V3DYzp6ynx6nbIoZHzbzCpn7iUV_ecNbXyYAmQEXzj4WsYaOMrOs2fUi1-8_9iH7mZpS4qKRIZXp46k7DdK7f_06qrErG_8dlHs6rIzglmJepJkXvqXfRRSTB9GQQ6XCazajYl5N12-sCFhQzTm67AVNtD0kw3xyJ7lhnyqzcPmGBYE6WLTnwRF915zWQWK&hc_ref=ARS2h50pqg3_Yqe1n7zbz8QnxokC31XHl4mXSre4mqhMqYJ4GNAmpInP7aV4-mccZWU&fref=nf&__tn__=kC-R">   <img src="https://img.icons8.com/ios-glyphs/50/000000/facebook-new.png">    </a> 
                   </li>
@@ -119,7 +119,7 @@ http://www.tooplate.com/view/2111-pro-line
                   </li>
                    <li class="nav-item">
                     <a class=" navbar-fbicon external"  href="https://twitter.com/TodxsD">    <img src="https://img.icons8.com/ios/50/000000/twitter-filled.png">   </a> 
-                  </li>
+                  </li>-->
                 </ul>
               </div>
             </nav>
