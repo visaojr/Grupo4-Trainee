@@ -1,0 +1,224 @@
+
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+
+
+.dark{
+	
+    background: linear-gradient(#000000, #2F0B3A,#263238) ;
+}
+
+body {
+  min-height: 100vh;
+  position: relative;
+  margin: 0;
+  overflow-x: hidden;
+ /*font-family: Sarala, Arial, Helvetica, sans-serif; */
+ font-family: 'Ubuntu', sans-serif;
+  font-weight: 200;
+  
+  font-style:bold;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;          ;
+  letter-spacing: 2px;
+      font-size: 1rem;
+  line-height: 1.8rem;
+  color: #ecf0f1;
+}
+
+.title-header {
+  color: ##81BEF7;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding: 35px;
+ font-weight: 800;
+ font-family: "arial", sans-serif;
+ 
+}
+
+.tm-page-header {
+  color: #81BEF7 ;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding: 45px;
+  
+}
+
+.tm-nav-section {
+  position: absolute;
+  top: 98px;
+  left: 0;
+  width: 100%;
+  border-top: white ;
+  border-bottom:white;
+  background-color: white
+  z-index: 3000;
+}
+.title-header{
+   font-weight: 800;
+}
+
+
+
+.nav-tabs .nav-link {
+  border-radius: 0;
+  border: none;
+  align-items: center;
+  padding-top: 0.5px;
+  padding-bottom: 0.5px;
+  font-size: 1.3rem;
+  color: #e6ccff;
+  background-color: transparent;
+}
+.tm-nav-section.sticky {
+  position: fixed;
+  top: 0;
+  border-top: none;
+  background:white;
+
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+  padding: 10px 35px;
+}
+
+.navbar-fbicon{
+width: 45%;
+
+}
+.navbar-light .navbar-nav .nav-link {
+  color:#000000;
+}
+
+#tmMainNav .nav-link.current,
+#tmMainNav .nav-link:hover {
+  color: #000000;
+  background:white;
+}
+
+.navbar-light .navbar-toggler {
+  background-color: white;
+}
+.tm-banner-section {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  margin-top: 15px;
+}
+
+.tm-banner-logo-container {
+  object-position: 50% 50%;
+  z-index: 1000;
+  color: white;
+  align-self: center;
+  max-width: 100px;
+}
+.tm-banner1-section img {
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  transform: translate(-50%, -60%);
+  min-width: 100%;
+  min-height: 100%;
+}
+.tm-feature-header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color:#ecf0f1;
+  margin-bottom: 55px;
+}
+.card{
+  color:#34495e;
+
+}
+
+.cardform{
+
+  object-position: 50% 50%;
+  right: 50%;
+  left:50%;
+   color:#34495e;
+}
+
+
+
+.tm-topo-section {
+  padding-top: 50px;
+  margin-top: -20px;
+  padding-bottom: 90px;
+}
+
+.tm-topo-left {
+  margin-bottom: 30px;
+}
+
+.tm-topot-figure-block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+}
+
+figure {
+   position: absolute;
+  left: 50%;
+  top: 0%;
+  transform: translate(-50%, -60%);
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.tm-topo-figcaption {
+  margin-top: 27px;
+  max-width: 600px;
+}
+
+.tm-topo-header {
+  margin-bottom: 40px;
+}
+
+h1{font-weight: bolder;
+  font-stretch: ultra-expanded;
+
+}
+
+@media (max-width: 440px) {
+  .tm-features-section {
+    padding-top: 60px;
+    padding-bottom: 55px;
+  }
+
+  .tm-contact-section {
+    padding-top: 70px;
+    font-family: Sarala, Arial, Helvetica, sans-serif;
+    padding-bottom: 60px;
+    font-weight: 400;
+  }
+}
+  
+
+  
